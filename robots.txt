@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://remote-work-notes.howlane.com/sitemap.xml
